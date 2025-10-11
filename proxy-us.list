@@ -1,4 +1,4 @@
-# NAME: proxy-us.list
+# NAME: proxy-us
 DOMAIN-KEYWORD,deepseek
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,openrouter.ai
